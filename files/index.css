@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(29, 29, 29);
+    align-items: center;
+    text-align: center;
+}
+
+#meme {
+    max-width: 20%;
+}
+
+#main {
+    color: white;
+    background-color: green;
+}
